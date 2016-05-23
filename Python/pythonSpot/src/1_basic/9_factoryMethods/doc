@@ -1,0 +1,14 @@
+When you discover that you have to add new types to a system, the most sensible first step is to use polymorphism to
+create a common interface to those new types. This separates the rest of the code in your system form the knowledge of the
+specific types that yoy are reading.
+
+At first it would appear that the only place you need to change the code in such a design is the place where you inherit
+new type, but this is not quite true. You must still create a object of your new type and at the point of creation you
+must specify the exact constructor to use. Thus, if the code that creates objects is distributes throughout your
+application, you have the same problem when adding new types-you must still chase down all the points in your code where
+type matters. It happens to be the creation of the type that matters in this case rather than the use of the type, but
+the effect is the same: adding a new type can cause problems
+
+The solution is to force creation of the objects to occur through a common factory rather than to allow the creational
+code to be spread throughout your system. If all the code in your program must go through this factory whenever it needs
+to create one of your objects, then all you must do when you add a new object is to modify the factory.

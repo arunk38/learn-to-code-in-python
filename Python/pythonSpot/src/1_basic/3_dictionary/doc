@@ -1,0 +1,3 @@
+A dictionary can be thought of as an unordered set of key: value pairs. A pair of braces creates an empty dictionary: {}
+Each element can maps to a certain value.  An integer or string can be used for the index.
+Dictonaries do not have an order. Let us make a simple dictionary:

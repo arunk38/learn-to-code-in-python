@@ -1,0 +1,3 @@
+Using the random module, we can generate pseudo-random numbers.
+The function random() generates a random number between zero and one [0, 0.1 .. 1].
+Numbers generated with this module are not truly random but they are enough random for most purposes.

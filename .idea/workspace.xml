@@ -1,0 +1,534 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="261aca32-bf54-4036-bdf4-cdeef46c1d3b" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python/pythonSpot/src/3_database_and_readfiles/3_database_sqlite/system.db" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python/pythonSpot/src/3_database_and_readfiles/3_database_sqlite/test.db" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python/pythonSpot/src/3_database_and_readfiles/3_database_sqlite/user.db" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python/pythonSpot/src/4_web_development/3_first-web-app/app/tutorial.db" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python/pythonSpot/src/4_web_development/3_first-web-app/app/tutorial.db-journal" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/Learn-to-code.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python/.idea/.name" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python/.idea/compiler.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python/.idea/copyright/profiles_settings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python/.idea/misc.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python/.idea/workspace.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python/Python.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python/automatetheboringstuff/.idea/compiler.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python/automatetheboringstuff/.idea/copyright/profiles_settings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python/automatetheboringstuff/.idea/inspectionProfiles/Project_Default.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python/automatetheboringstuff/.idea/inspectionProfiles/profiles_settings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python/automatetheboringstuff/.idea/libraries/Buildout_Eggs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python/automatetheboringstuff/.idea/misc.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python/automatetheboringstuff/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python/automatetheboringstuff/.idea/workspace.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python/automatetheboringstuff/automatetheboringstuff.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python/automatetheboringstuff/automatetheboringstuff.ipr" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python/automatetheboringstuff/automatetheboringstuff.iws" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python/automatetheboringstuff/src/1_baiscs/1-hello-world.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python/automatetheboringstuff/src/1_baiscs/10-lucky.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python/automatetheboringstuff/src/1_baiscs/2-guess-the-number.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python/automatetheboringstuff/src/1_baiscs/3-dictionary-inventary.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python/automatetheboringstuff/src/1_baiscs/4-strings.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python/automatetheboringstuff/src/1_baiscs/5-pw.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python/automatetheboringstuff/src/1_baiscs/6-PhoneAndEmail.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python/automatetheboringstuff/src/1_baiscs/7-quizGame.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python/automatetheboringstuff/src/1_baiscs/8-backupToZip.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python/automatetheboringstuff/src/1_baiscs/9-mapit.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python/automatetheboringstuff/src/1_baiscs/test.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python/pythonSpot/.idea/compiler.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python/pythonSpot/.idea/copyright/profiles_settings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python/pythonSpot/.idea/dictionaries/arun_kalagarla.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python/pythonSpot/.idea/inspectionProfiles/Project_Default.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python/pythonSpot/.idea/inspectionProfiles/profiles_settings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python/pythonSpot/.idea/misc.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python/pythonSpot/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python/pythonSpot/.idea/pythonSpot.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python/pythonSpot/.idea/workspace.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python/pythonSpot/src/1_basic/10_logging_/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python/pythonSpot/src/1_basic/11_threads/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python/pythonSpot/src/1_basic/12_subprocess/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python/pythonSpot/src/1_basic/12_subprocess/doc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python/pythonSpot/src/1_basic/12_subprocess/subprocess_windows.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python/pythonSpot/src/1_basic/13_lambda/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python/pythonSpot/src/1_basic/1_strings/modifyStrings.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python/pythonSpot/src/1_basic/2_random_exp/doc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python/pythonSpot/src/1_basic/2_random_exp/random_exp.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python/pythonSpot/src/1_basic/3_dictionary/dictionary.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python/pythonSpot/src/1_basic/3_dictionary/doc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python/pythonSpot/src/1_basic/4_objects_and_classess/CoffeeMachine_class.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python/pythonSpot/src/1_basic/4_objects_and_classess/doc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python/pythonSpot/src/1_basic/4_objects_and_classess/innerClass.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python/pythonSpot/src/1_basic/4_objects_and_classess/telephone.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python/pythonSpot/src/1_basic/4_objects_and_classess/user_class.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python/pythonSpot/src/1_basic/5_encapsulation/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python/pythonSpot/src/1_basic/5_encapsulation/doc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python/pythonSpot/src/1_basic/6_methodOverLoading/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python/pythonSpot/src/1_basic/6_methodOverLoading/doc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python/pythonSpot/src/1_basic/7_inhertance/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python/pythonSpot/src/1_basic/7_inhertance/doc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python/pythonSpot/src/1_basic/8_polymorphism/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python/pythonSpot/src/1_basic/8_polymorphism/doc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python/pythonSpot/src/1_basic/9_factoryMethods/NestedShapeFactory.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python/pythonSpot/src/1_basic/9_factoryMethods/abstractFactory.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python/pythonSpot/src/1_basic/9_factoryMethods/doc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python/pythonSpot/src/1_basic/9_factoryMethods/polymorphicFactory.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python/pythonSpot/src/1_basic/9_factoryMethods/simpleFactoryMethod.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python/pythonSpot/src/2_intermediate/1_sets/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python/pythonSpot/src/2_intermediate/2_modularProgramming/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python/pythonSpot/src/2_intermediate/2_modularProgramming/app.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python/pythonSpot/src/2_intermediate/2_modularProgramming/test_1.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python/pythonSpot/src/2_intermediate/3_graphs/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python/pythonSpot/src/2_intermediate/4_finite_state_machine/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python/pythonSpot/src/2_intermediate/4_finite_state_machine/doc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python/pythonSpot/src/2_intermediate/5_tree/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python/pythonSpot/src/3_database_and_readfiles/1_read_write/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python/pythonSpot/src/3_database_and_readfiles/1_read_write/new.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python/pythonSpot/src/3_database_and_readfiles/1_read_write/read_file.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python/pythonSpot/src/3_database_and_readfiles/1_read_write/write_file.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python/pythonSpot/src/3_database_and_readfiles/2_create_and_read_csv/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python/pythonSpot/src/3_database_and_readfiles/2_create_and_read_csv/persons.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python/pythonSpot/src/3_database_and_readfiles/3_database_sqlite/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python/pythonSpot/src/3_database_and_readfiles/3_database_sqlite/read_data_db.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python/pythonSpot/src/3_database_and_readfiles/3_database_sqlite/storing_data.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python/pythonSpot/src/4_web_development/1_flask-hello-world/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python/pythonSpot/src/4_web_development/2_jinja2-template-engine/app/app.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python/pythonSpot/src/4_web_development/2_jinja2-template-engine/app/templates/base.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python/pythonSpot/src/4_web_development/2_jinja2-template-engine/app/templates/user.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python/pythonSpot/src/4_web_development/3_first-web-app/app/app.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python/pythonSpot/src/4_web_development/3_first-web-app/app/dummy.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python/pythonSpot/src/4_web_development/3_first-web-app/app/static/style.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python/pythonSpot/src/4_web_development/3_first-web-app/app/tabledef.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python/pythonSpot/src/4_web_development/3_first-web-app/app/templates/home.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python/pythonSpot/src/4_web_development/3_first-web-app/app/templates/layout.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python/pythonSpot/src/4_web_development/3_first-web-app/app/templates/login.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python/pythonSpot/src/4_web_development/4_google-charts-API/app/app.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python/pythonSpot/src/4_web_development/4_google-charts-API/app/templates/test.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python/pythonSpot/src/4_web_development/5_webforms/app/app.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python/pythonSpot/src/4_web_development/5_webforms/app/static/bootstrap-theme.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python/pythonSpot/src/4_web_development/5_webforms/app/static/bootstrap-theme.css.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python/pythonSpot/src/4_web_development/5_webforms/app/static/bootstrap-theme.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python/pythonSpot/src/4_web_development/5_webforms/app/static/bootstrap-theme.min.css.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python/pythonSpot/src/4_web_development/5_webforms/app/static/bootstrap.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python/pythonSpot/src/4_web_development/5_webforms/app/static/bootstrap.css.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python/pythonSpot/src/4_web_development/5_webforms/app/static/bootstrap.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python/pythonSpot/src/4_web_development/5_webforms/app/static/bootstrap.min.css.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python/pythonSpot/src/4_web_development/5_webforms/app/templates/hello.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python/pythonSpot/src/4_web_development/6_static-files/app/app.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python/pythonSpot/src/4_web_development/6_static-files/app/templates/hello.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python/pythonSpot/src/addirionalNotes/properties.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python/pythonSpot/src/addirionalNotes/yield.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python/pythonSpot/src/temp.py" />
+    </list>
+    <ignored path="Learn-to-code.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/Learn-to-code$Unittests_in_Learn_to_code.coverage" NAME="Unittests in Learn-to-code Coverage Results" MODIFIED="1463978972559" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="Learn-to-code" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf />
+  </component>
+  <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="Arun Kumar" />
+      </list>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="268" />
+    <option name="y" value="189" />
+    <option name="width" value="1400" />
+    <option name="height" value="653" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Learn-to-code" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Learn-to-code" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Learn-to-code" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Python" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scratches" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="RunManager" selected="Python tests.Unittests in Learn-to-code">
+    <configuration default="false" name="Unittests in Learn-to-code" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Learn-to-code" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="$PROJECT_DIR$" />
+      <option name="TEST_TYPE" value="TEST_FOLDER" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="PUREUNITTEST" value="true" />
+      <option name="PARAMS" value="" />
+      <option name="USE_PARAM" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="DjangoTestsConfigurationType" factoryName="Django tests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Learn-to-code" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="TARGET" value="" />
+      <option name="SETTINGS_FILE" value="" />
+      <option name="CUSTOM_SETTINGS" value="false" />
+      <option name="USE_OPTIONS" value="false" />
+      <option name="OPTIONS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="PyBehaveRunConfigurationType" factoryName="Behave">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Learn-to-code" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="ADDITIONAL_ARGS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="PyLettuceRunConfigurationType" factoryName="Lettuce">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Learn-to-code" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="ADDITIONAL_ARGS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Learn-to-code" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Tox" factoryName="Tox">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <module name="Learn-to-code" />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run-script" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Attests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Learn-to-code" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Doctests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Learn-to-code" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Nosetests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Learn-to-code" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="PARAMS" value="" />
+      <option name="USE_PARAM" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Unittests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Learn-to-code" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="PUREUNITTEST" value="true" />
+      <option name="PARAMS" value="" />
+      <option name="USE_PARAM" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="py.test">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Learn-to-code" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="testToRun" value="" />
+      <option name="keywords" value="" />
+      <option name="params" value="" />
+      <option name="USE_PARAM" value="false" />
+      <option name="USE_KEYWORD" value="false" />
+      <method />
+    </configuration>
+    <list size="1">
+      <item index="0" class="java.lang.String" itemvalue="Python tests.Unittests in Learn-to-code" />
+    </list>
+    <recent_temporary>
+      <list size="1">
+        <item index="0" class="java.lang.String" itemvalue="Python tests.Unittests in Learn-to-code" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="261aca32-bf54-4036-bdf4-cdeef46c1d3b" name="Default" comment="" />
+      <created>1463978388230</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1463978388230</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="Unittests_in_Learn-to-code - 2016.05.23 at 10h 19m 34s.xml">
+      <configuration name="Unittests in Learn-to-code" configurationId="tests" />
+    </history-entry>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="268" y="189" width="1400" height="653" extended-state="0" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3296501" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Initial commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Initial commit" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="uml://AlchemyModelDependency/#Learn-to-code">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>AlchemyModelDependency</ID>
+          <OriginalElement>#Learn-to-code</OriginalElement>
+          <nodes />
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="1.0" x="519.0" y="244.0" />
+          <SelectedNodes />
+          <Categories>
+            <Category>Fields</Category>
+          </Categories>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

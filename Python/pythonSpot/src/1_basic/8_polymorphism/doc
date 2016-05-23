@@ -1,0 +1,3 @@
+Sometimes an object comes in many types or forms. If we have a button, there are many different draw outputs(round,
+check, square) but they do share the same login: onClick(). we can access them using the same method.
+This idea is called polymorphism.

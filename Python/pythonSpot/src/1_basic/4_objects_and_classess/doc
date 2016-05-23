@@ -1,0 +1,10 @@
+1. Statements:
+    In the very early days of computing, programmers wrote only commands.
+
+2. Functions:
+    Reusable group of statements, helped to structure that code and it improved readability.
+
+3. Classes:
+    Classes are used to create objects which have functions and variables.
+    Strings are examples of objects: A string book has the functions book.replace() and book.lowercase().
+    This style is often called object oriented programming.

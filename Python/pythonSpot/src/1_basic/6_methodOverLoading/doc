@@ -1,0 +1,2 @@
+In python you can define a method in such a way that there are multiple ways to call it. This is known as
+"METHOD OVERLOADING". We do that by setting default values of variables.

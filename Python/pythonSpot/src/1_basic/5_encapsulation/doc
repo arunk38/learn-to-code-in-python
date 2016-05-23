@@ -1,0 +1,23 @@
+In an object oriented python program, you can restrict access to methods and variables.
+This can prevent the data from being modified by accident and is known as encapsulation.
+
+private variables in python is more or less a hack, which means the interpreter intentionally rename the variable
+
+class A:
+    def __int__(self):
+        self.__var1 = 123
+    def printVar1(self):
+        print self.__var1
+and now if you try to access __var1 outside the class definition, it will fail
+
+ >>>x = A()
+ >>>x.__var1 # this will return error: "A has no attribute __var1"
+
+ >>>x.printVar1() # this gives back 123
+but you can easily get away with this:
+
+ >>>x.__dict__ # this will show everything that is contained in object x
+               # which in this case is something like {'_A__var1' : 123}
+
+ >>>x._A__var1 = 456 # you now know the masked name of private variables
+ >>>x.printVar1() # this gives back 456
