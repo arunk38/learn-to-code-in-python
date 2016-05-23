@@ -1,6 +1,6 @@
 # lucky.py - Opens several Google search results
 
-import sys, requests, webbrowser, bs4
+import requests, webbrowser, bs4
 
 print("Enter the string to search:")
 search = input()
@@ -15,6 +15,6 @@ soup = bs4.BeautifulSoup(res.text)
 # Open a browser tab for each result.
 linkElems = soup.select('.r a')
 
-numOpen = min(4, len(linkElems))
+numOpen = min(1, len(linkElems))
 for i in range(numOpen):
     webbrowser.open('http://google.com' + linkElems[i].get('href'))
