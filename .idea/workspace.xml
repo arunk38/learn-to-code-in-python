@@ -2,131 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="261aca32-bf54-4036-bdf4-cdeef46c1d3b" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python/pythonSpot/src/3_database_and_readfiles/3_database_sqlite/system.db" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python/pythonSpot/src/3_database_and_readfiles/3_database_sqlite/test.db" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python/pythonSpot/src/3_database_and_readfiles/3_database_sqlite/user.db" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python/pythonSpot/src/4_web_development/3_first-web-app/app/tutorial.db" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python/pythonSpot/src/4_web_development/3_first-web-app/app/tutorial.db-journal" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/Learn-to-code.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python/.idea/.name" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python/.idea/compiler.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python/.idea/copyright/profiles_settings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python/.idea/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python/.idea/workspace.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python/Python.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python/automatetheboringstuff/.idea/compiler.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python/automatetheboringstuff/.idea/copyright/profiles_settings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python/automatetheboringstuff/.idea/inspectionProfiles/Project_Default.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python/automatetheboringstuff/.idea/inspectionProfiles/profiles_settings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python/automatetheboringstuff/.idea/libraries/Buildout_Eggs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python/automatetheboringstuff/.idea/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python/automatetheboringstuff/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python/automatetheboringstuff/.idea/workspace.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python/automatetheboringstuff/automatetheboringstuff.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python/automatetheboringstuff/automatetheboringstuff.ipr" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python/automatetheboringstuff/automatetheboringstuff.iws" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python/automatetheboringstuff/src/1_baiscs/1-hello-world.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python/automatetheboringstuff/src/1_baiscs/10-lucky.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python/automatetheboringstuff/src/1_baiscs/2-guess-the-number.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python/automatetheboringstuff/src/1_baiscs/3-dictionary-inventary.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python/automatetheboringstuff/src/1_baiscs/4-strings.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python/automatetheboringstuff/src/1_baiscs/5-pw.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python/automatetheboringstuff/src/1_baiscs/6-PhoneAndEmail.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python/automatetheboringstuff/src/1_baiscs/7-quizGame.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python/automatetheboringstuff/src/1_baiscs/8-backupToZip.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python/automatetheboringstuff/src/1_baiscs/9-mapit.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python/automatetheboringstuff/src/1_baiscs/test.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python/pythonSpot/.idea/compiler.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python/pythonSpot/.idea/copyright/profiles_settings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python/pythonSpot/.idea/dictionaries/arun_kalagarla.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python/pythonSpot/.idea/inspectionProfiles/Project_Default.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python/pythonSpot/.idea/inspectionProfiles/profiles_settings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python/pythonSpot/.idea/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python/pythonSpot/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python/pythonSpot/.idea/pythonSpot.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python/pythonSpot/.idea/workspace.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python/pythonSpot/src/1_basic/10_logging_/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python/pythonSpot/src/1_basic/11_threads/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python/pythonSpot/src/1_basic/12_subprocess/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python/pythonSpot/src/1_basic/12_subprocess/doc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python/pythonSpot/src/1_basic/12_subprocess/subprocess_windows.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python/pythonSpot/src/1_basic/13_lambda/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python/pythonSpot/src/1_basic/1_strings/modifyStrings.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python/pythonSpot/src/1_basic/2_random_exp/doc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python/pythonSpot/src/1_basic/2_random_exp/random_exp.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python/pythonSpot/src/1_basic/3_dictionary/dictionary.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python/pythonSpot/src/1_basic/3_dictionary/doc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python/pythonSpot/src/1_basic/4_objects_and_classess/CoffeeMachine_class.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python/pythonSpot/src/1_basic/4_objects_and_classess/doc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python/pythonSpot/src/1_basic/4_objects_and_classess/innerClass.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python/pythonSpot/src/1_basic/4_objects_and_classess/telephone.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python/pythonSpot/src/1_basic/4_objects_and_classess/user_class.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python/pythonSpot/src/1_basic/5_encapsulation/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python/pythonSpot/src/1_basic/5_encapsulation/doc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python/pythonSpot/src/1_basic/6_methodOverLoading/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python/pythonSpot/src/1_basic/6_methodOverLoading/doc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python/pythonSpot/src/1_basic/7_inhertance/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python/pythonSpot/src/1_basic/7_inhertance/doc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python/pythonSpot/src/1_basic/8_polymorphism/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python/pythonSpot/src/1_basic/8_polymorphism/doc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python/pythonSpot/src/1_basic/9_factoryMethods/NestedShapeFactory.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python/pythonSpot/src/1_basic/9_factoryMethods/abstractFactory.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python/pythonSpot/src/1_basic/9_factoryMethods/doc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python/pythonSpot/src/1_basic/9_factoryMethods/polymorphicFactory.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python/pythonSpot/src/1_basic/9_factoryMethods/simpleFactoryMethod.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python/pythonSpot/src/2_intermediate/1_sets/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python/pythonSpot/src/2_intermediate/2_modularProgramming/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python/pythonSpot/src/2_intermediate/2_modularProgramming/app.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python/pythonSpot/src/2_intermediate/2_modularProgramming/test_1.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python/pythonSpot/src/2_intermediate/3_graphs/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python/pythonSpot/src/2_intermediate/4_finite_state_machine/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python/pythonSpot/src/2_intermediate/4_finite_state_machine/doc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python/pythonSpot/src/2_intermediate/5_tree/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python/pythonSpot/src/3_database_and_readfiles/1_read_write/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python/pythonSpot/src/3_database_and_readfiles/1_read_write/new.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python/pythonSpot/src/3_database_and_readfiles/1_read_write/read_file.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python/pythonSpot/src/3_database_and_readfiles/1_read_write/write_file.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python/pythonSpot/src/3_database_and_readfiles/2_create_and_read_csv/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python/pythonSpot/src/3_database_and_readfiles/2_create_and_read_csv/persons.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python/pythonSpot/src/3_database_and_readfiles/3_database_sqlite/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python/pythonSpot/src/3_database_and_readfiles/3_database_sqlite/read_data_db.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python/pythonSpot/src/3_database_and_readfiles/3_database_sqlite/storing_data.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python/pythonSpot/src/4_web_development/1_flask-hello-world/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python/pythonSpot/src/4_web_development/2_jinja2-template-engine/app/app.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python/pythonSpot/src/4_web_development/2_jinja2-template-engine/app/templates/base.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python/pythonSpot/src/4_web_development/2_jinja2-template-engine/app/templates/user.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python/pythonSpot/src/4_web_development/3_first-web-app/app/app.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python/pythonSpot/src/4_web_development/3_first-web-app/app/dummy.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python/pythonSpot/src/4_web_development/3_first-web-app/app/static/style.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python/pythonSpot/src/4_web_development/3_first-web-app/app/tabledef.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python/pythonSpot/src/4_web_development/3_first-web-app/app/templates/home.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python/pythonSpot/src/4_web_development/3_first-web-app/app/templates/layout.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python/pythonSpot/src/4_web_development/3_first-web-app/app/templates/login.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python/pythonSpot/src/4_web_development/4_google-charts-API/app/app.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python/pythonSpot/src/4_web_development/4_google-charts-API/app/templates/test.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python/pythonSpot/src/4_web_development/5_webforms/app/app.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python/pythonSpot/src/4_web_development/5_webforms/app/static/bootstrap-theme.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python/pythonSpot/src/4_web_development/5_webforms/app/static/bootstrap-theme.css.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python/pythonSpot/src/4_web_development/5_webforms/app/static/bootstrap-theme.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python/pythonSpot/src/4_web_development/5_webforms/app/static/bootstrap-theme.min.css.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python/pythonSpot/src/4_web_development/5_webforms/app/static/bootstrap.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python/pythonSpot/src/4_web_development/5_webforms/app/static/bootstrap.css.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python/pythonSpot/src/4_web_development/5_webforms/app/static/bootstrap.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python/pythonSpot/src/4_web_development/5_webforms/app/static/bootstrap.min.css.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python/pythonSpot/src/4_web_development/5_webforms/app/templates/hello.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python/pythonSpot/src/4_web_development/6_static-files/app/app.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python/pythonSpot/src/4_web_development/6_static-files/app/templates/hello.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python/pythonSpot/src/addirionalNotes/properties.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python/pythonSpot/src/addirionalNotes/yield.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python/pythonSpot/src/temp.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Python/automatetheboringstuff/src/1_baiscs/test.py" afterPath="$PROJECT_DIR$/Python/automatetheboringstuff/src/1_baiscs/test.py" />
     </list>
     <ignored path="Learn-to-code.iws" />
     <ignored path=".idea/workspace.xml" />
+    <ignored path=".idea/dataSources.local.xml" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -137,6 +18,7 @@
   <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
   <component name="CoverageDataManager">
     <SUITE FILE_PATH="coverage/Learn-to-code$Unittests_in_Learn_to_code.coverage" NAME="Unittests in Learn-to-code Coverage Results" MODIFIED="1463978972559" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Learn-to-code$test.coverage" NAME="test Coverage Results" MODIFIED="1463979917866" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python/automatetheboringstuff/src/1_baiscs" />
   </component>
   <component name="CreatePatchCommitExecutor">
     <option name="PATCH_PATH" value="" />
@@ -146,7 +28,18 @@
     <favorites_list name="Learn-to-code" />
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf>
+      <file leaf-file-name="test.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Python/automatetheboringstuff/src/1_baiscs/test.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="102">
+              <caret line="6" column="18" selection-start-line="6" selection-start-column="18" selection-end-line="6" selection-end-column="18" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="Git.Settings">
     <option name="PREVIOUS_COMMIT_AUTHORS">
@@ -155,6 +48,19 @@
       </list>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="PUSH_TAGS">
+      <GitPushTagMode>
+        <option name="argument" value="--follow-tags" />
+        <option name="title" value="Current Branch" />
+      </GitPushTagMode>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Python/automatetheboringstuff/src/1_baiscs/test.py" />
+      </list>
+    </option>
   </component>
   <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
   <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
@@ -215,6 +121,50 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Learn-to-code" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Learn-to-code" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Python" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="automatetheboringstuff" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Learn-to-code" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Learn-to-code" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Python" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="automatetheboringstuff" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="1_baiscs" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
       <pane id="Scratches" />
@@ -225,7 +175,7 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="WebServerToolWindowFactoryState" value="false" />
   </component>
-  <component name="RunManager" selected="Python tests.Unittests in Learn-to-code">
+  <component name="RunManager" selected="Python.test">
     <configuration default="false" name="Unittests in Learn-to-code" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -247,6 +197,24 @@
       <option name="PUREUNITTEST" value="true" />
       <option name="PARAMS" value="" />
       <option name="USE_PARAM" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="test" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python/automatetheboringstuff/src/1_baiscs" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Learn-to-code" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python/automatetheboringstuff/src/1_baiscs/test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
     </configuration>
     <configuration default="true" type="DjangoTestsConfigurationType" factoryName="Django tests">
@@ -451,12 +419,14 @@
       <option name="USE_KEYWORD" value="false" />
       <method />
     </configuration>
-    <list size="1">
+    <list size="2">
       <item index="0" class="java.lang.String" itemvalue="Python tests.Unittests in Learn-to-code" />
+      <item index="1" class="java.lang.String" itemvalue="Python.test" />
     </list>
     <recent_temporary>
-      <list size="1">
-        <item index="0" class="java.lang.String" itemvalue="Python tests.Unittests in Learn-to-code" />
+      <list size="2">
+        <item index="0" class="java.lang.String" itemvalue="Python.test" />
+        <item index="1" class="java.lang.String" itemvalue="Python tests.Unittests in Learn-to-code" />
       </list>
     </recent_temporary>
   </component>
@@ -471,6 +441,14 @@
       <option name="presentableId" value="Default" />
       <updated>1463978388230</updated>
     </task>
+    <task id="LOCAL-00001" summary="Initial commit">
+      <created>1463979706200</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1463979706200</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -482,13 +460,13 @@
     <frame x="268" y="189" width="1400" height="653" extended-state="0" />
     <editor active="false" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3296501" sideWeight="0.50289017" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3296501" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3296501" sideWeight="0.49710983" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
@@ -507,7 +485,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Initial commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="Initial commit" />
+    <MESSAGE value="Testing repo with commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Testing repo with commit" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -527,6 +506,14 @@
           <Categories>
             <Category>Fields</Category>
           </Categories>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python/automatetheboringstuff/src/1_baiscs/test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="18" selection-start-line="6" selection-start-column="18" selection-end-line="6" selection-end-column="18" />
+          <folding />
         </state>
       </provider>
     </entry>
